@@ -16,7 +16,7 @@ More to read: https://www.coursera.org/articles/front-end-developer, https://boo
 
 
 ## Yarn
-
+Yarn is an open source package manager that is used to manage JS project dependencies. It helps in installing, updating, configuring, and removing package dependencies. Yarn is considered more secure and is generally faster than NPM when installing larger projects with many depencies. [To learn more and install yarn] (https://yarnpkg.com)
 
 ## NPM
 Node Package Manager or NPM for short is where developers can find, create or build code packages. This can be especially useful for web development where developers have large amount of code and they can use the package manager to handle dependencies. npm is the world largest software registry and currently contains over 800,000 code packages. These packages are open source. [For more info click here](https://www.npmjs.com/) [or to learn how to use it click here](https://www.w3schools.com/whatis/whatis_npm.asp)
